@@ -29,6 +29,10 @@ html {
         color: bisque;
     }
 
+    p {
+        font-size: large;
+        color: aqua;
+    }
     main {
     width:70%;
     margin:50px;
@@ -57,4 +61,10 @@ html {
         border: 5px solid;
         border-color: rgb(112,175,55 );
         margin-bottom: 20px;
+    }
+
+    footer {
+        background-color: rgb(15, 0,50);
+        font-size:xx-large;
+
     }
